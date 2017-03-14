@@ -1,0 +1,6 @@
+
+
+
+AWS EC2: Installation of Puppet Master & Agent with Sample manifests
+
+https://www.youtube.com/watch?v=a5aMYLVPGpY
